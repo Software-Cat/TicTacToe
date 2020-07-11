@@ -1,0 +1,18 @@
+
+Z	java:S106N"9Replace this use of System.out or System.err by a logger.(àÔµ¨úÿÿÿÿ8¤¿‚â³.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(‡¶Š8ÉÁâ³.
+T	java:S106-"9Replace this use of System.out or System.err by a logger.(Â¡ÂH8Ñä—â³.
+U	java:S106P"9Replace this use of System.out or System.err by a logger.(¦œß®8¤¿‚â³.
+8
+java:S3626+"Remove this redundant jump.(ÉŠ©ƒ8Ñä—â³.
+t
+java:S3776S"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(İÔë¤ûÿÿÿÿ8¤¿‚â³.
+z	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8ÿª°á³.
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Ì¨¤Ğüÿÿÿÿ8Ñä—â³.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Âõ˜–øÿÿÿÿ8Ñä—â³.
+8
+java:S3626."Remove this redundant jump.(ÉŠ©ƒ8Ñä—â³.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8éà“â³.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(¦œß®8¤¿‚â³.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïñ©ù8Ñä—â³.

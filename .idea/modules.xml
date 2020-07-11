@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema.iml" group="Tic-Tac-Toe/Problems-Cinema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_main.iml" group="Tic-Tac-Toe/Problems-Cinema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Cinema/Problems-Cinema_test.iml" group="Tic-Tac-Toe/Problems-Cinema" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems-Fix_compile-time_errors.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems-Fix_compile-time_errors.iml" group="Tic-Tac-Toe/Problems-Fix_compile-time_errors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems-Fix_compile-time_errors_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems-Fix_compile-time_errors_main.iml" group="Tic-Tac-Toe/Problems-Fix_compile-time_errors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems-Fix_compile-time_errors_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix compile-time errors/Problems-Fix_compile-time_errors_test.iml" group="Tic-Tac-Toe/Problems-Fix_compile-time_errors" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_main.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Fix the program/Problems-Fix_the_program_test.iml" group="Tic-Tac-Toe/Problems-Fix_the_program" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pretty looking pattern/Problems-Pretty_looking_pattern.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pretty looking pattern/Problems-Pretty_looking_pattern.iml" group="Tic-Tac-Toe/Problems-Pretty_looking_pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pretty looking pattern/Problems-Pretty_looking_pattern_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pretty looking pattern/Problems-Pretty_looking_pattern_main.iml" group="Tic-Tac-Toe/Problems-Pretty_looking_pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Pretty looking pattern/Problems-Pretty_looking_pattern_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Pretty looking pattern/Problems-Pretty_looking_pattern_test.iml" group="Tic-Tac-Toe/Problems-Pretty_looking_pattern" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Problems-Symmetric_matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Problems-Symmetric_matrix.iml" group="Tic-Tac-Toe/Problems-Symmetric_matrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Problems-Symmetric_matrix_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Problems-Symmetric_matrix_main.iml" group="Tic-Tac-Toe/Problems-Symmetric_matrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Problems-Symmetric_matrix_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Symmetric matrix/Problems-Symmetric_matrix_test.iml" group="Tic-Tac-Toe/Problems-Symmetric_matrix" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Problems-What's_wrong.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Problems-What's_wrong.iml" group="Tic-Tac-Toe/Problems-What's_wrong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Problems-What's_wrong_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Problems-What's_wrong_main.iml" group="Tic-Tac-Toe/Problems-What's_wrong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Problems-What's_wrong_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/What's wrong/Problems-What's_wrong_test.iml" group="Tic-Tac-Toe/Problems-What's_wrong" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe.iml" group="Tic-Tac-Toe" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_main.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Tic-Tac-Toe/task/Tic-Tac-Toe-task_test.iml" group="Tic-Tac-Toe/Tic-Tac-Toe-task" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Tic-Tac-Toe/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Tic-Tac-Toe/util" />
+    </modules>
+  </component>
+</project>
